@@ -1,3 +1,7 @@
+layout: default
+title: "PAGE TITLE"
+permalink: /mattmarotta.github.io/test.md
+
 ```sql
 -- SUM of call duration per each employee
 SELECT 
