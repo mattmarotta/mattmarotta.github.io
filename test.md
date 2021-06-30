@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PAGE TITLE"
-permalink: https://mattmarotta.github.io/test
+filename: test.md
 ---
 
 ```sql
